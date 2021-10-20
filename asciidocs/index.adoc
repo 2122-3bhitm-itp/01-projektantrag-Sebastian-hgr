@@ -1,21 +1,31 @@
-= My Project
-firstname lastname
+= Project Proposal
+Sebastian Hager
 1.0.0, yyyy-mm-dd: Some notes
-ifndef::imagesdir[:imagesdir: images]
+
 //:toc-placement!:  // prevents the generation of the doc at this position, so it can be printed afterwards
 :sourcedir: ../src/main/java
 :icons: font
-:sectnums:    // Nummerierung der Überschriften / section numbering
-:toc: left
+:toc: middle
 
 //Need this blank line after ifdef, don't know why...
 ifdef::backend-html5[]
 
 // print the toc here (not at the default position)
 //toc::[]
+:hardbreaks:
+*Author:* {author}
+*Class:* 3BHITM, 2021/22
+*Subject:* Informationstechnische Projekte
+https://github.com/2122-3bhitm-itp/01-projektantrag-Sebastian-hgr[GitHub Repo]
 
-== Header 1
+=== Task description
+---
+:hardbreaks:
 
 
-=== Header 2
+
+
+
+
+
 
