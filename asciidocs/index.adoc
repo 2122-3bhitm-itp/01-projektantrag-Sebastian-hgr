@@ -1,6 +1,4 @@
 = Project Proposal
-Sebastian Hager
-1.0.0, yyyy-mm-dd: Some notes
 
 //:toc-placement!:  // prevents the generation of the doc at this position, so it can be printed afterwards
 :sourcedir: ../src/main/java
@@ -13,7 +11,7 @@ ifdef::backend-html5[]
 // print the toc here (not at the default position)
 //toc::[]
 :hardbreaks:
-*Author:* {author}
+*Author:* Seabstian Hager
 *Class:* 3BHITM, 2021/22
 *Subject:* Informationstechnische Projekte
 https://github.com/2122-3bhitm-itp/01-projektantrag-Sebastian-hgr[GitHub Repo]
@@ -21,8 +19,17 @@ https://github.com/2122-3bhitm-itp/01-projektantrag-Sebastian-hgr[GitHub Repo]
 === Task description
 ---
 :hardbreaks:
+Meine Idee für das Projekt wäre eine Zeiterfassung für Mitarbeiter einer Firma. Man kann per onclick die aktuelle Zeit erfassen. Diese wird in eine Tabelle ausgegeben. Am Ende des Tages passiert genau das selbe. Es wird mit den zwei Zeiten ausgerechnet wie lange man gearbeitet hat. Ebenso wird ausgegeben wie viele Überstunden man aktuell hat.
 
+=== Benefit of the Project
+---
+:hardbreaks:
+Es wird für eine Firma einfacher die Arbeitszeiten zu Ihrer Mitarbeiter zu erkennen und Sie zu bezahlen. Ebenso muss man seine Arbeitszeiten nicht mehr selbständig in ein umständliches Programm einzutragen.
 
+=== Consequences if not implemented
+---
+:hardbreaks:
+Es gibt keine starken Konsequenzen, wenn das Projekt nicht so umgesetzt wird außer das die Mitarbeiter mehr Arbeit haben, weil Sie Ihre Arbeitszeiten in eine Liste oder ähnliches eintragen müssen.
 
 
 
