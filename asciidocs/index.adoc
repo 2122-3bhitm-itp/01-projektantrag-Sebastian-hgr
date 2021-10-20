@@ -3,7 +3,6 @@
 //:toc-placement!:  // prevents the generation of the doc at this position, so it can be printed afterwards
 :sourcedir: ../src/main/java
 :icons: font
-:toc: middle
 
 //Need this blank line after ifdef, don't know why...
 ifdef::backend-html5[]
@@ -14,25 +13,36 @@ ifdef::backend-html5[]
 ===== Generall
 ---
 :hardbreaks:
-*Author:* Seabstian Hager
+*Author:* Sebastian Hager
 *Class:* 3BHITM, 2021/22
 *Subject:* Informationstechnische Projekte
-https://github.com/2122-3bhitm-itp/01-projektantrag-Sebastian-hgr[GitHub Repo]
+https://github.com/2122-3bhitm-itp/01-projektantrag-Sebastian-hgr[GitHub]
 
-=== Task description
+==== Used techniques
 ---
 :hardbreaks:
-Meine Idee für das Projekt wäre eine Zeiterfassung für Mitarbeiter einer Firma. Man kann per onclick die aktuelle Zeit erfassen. Diese wird in eine Tabelle ausgegeben. Am Ende des Tages passiert genau das selbe. Es wird mit den zwei Zeiten ausgerechnet wie lange man gearbeitet hat. Ebenso wird ausgegeben wie viele Überstunden man aktuell hat.
+* Java
+* JavaFX
 
-=== Benefit of the Project
+==== Task description
 ---
 :hardbreaks:
-Es wird für eine Firma einfacher die Arbeitszeiten zu Ihrer Mitarbeiter zu erkennen und Sie zu bezahlen. Ebenso muss man seine Arbeitszeiten nicht mehr selbständig in ein umständliches Programm einzutragen.
+Meine Idee für das Projekt ist eine Zeiterfassung für Mitarbeiter einer Firma. Man kann per onclick die aktuelle Zeit erfassen. Diese wird in einer Tabelle ausgegeben. Am Ende des Tages passiert genau dasselbe. Es wird mit den zwei Zeiten ausgerechnet wie lange man gearbeitet hat. Ebenso wird ausgegeben wie viele Überstunden man aktuell besitzt.
 
-=== Consequences if not implemented
+==== Benefit of the Project
 ---
 :hardbreaks:
-Es gibt keine starken Konsequenzen, wenn das Projekt nicht so umgesetzt wird außer das die Mitarbeiter mehr Arbeit haben, weil Sie Ihre Arbeitszeiten in eine Liste oder ähnliches eintragen müssen.
+Es wird für eine Firma einfacher die Arbeitszeiten von Ihren Mitarbeiter zu erkennen und Sie zu bezahlen. Ebenso muss man seine Arbeitszeiten nicht mehr selbständig in ein umständliches Programm eintragen.
+
+==== Consequences if not implemented
+---
+:hardbreaks:
+Es gibt keine starken Konsequenzen, wenn das Projekt nicht so umgesetzt wird außer das die Mitarbeiter mehr Arbeit haben, weil Sie Ihre Arbeitszeiten in eine Liste oder Ähnliches eintragen müssen.
+
+==== Target
+---
+:hardbreaks:
+Das Ziel meines Projektes ist es eine Oberfläche zu programmieren welche die Arbeitszeiten von Mitarbeitern erfasst.
 
 
 
